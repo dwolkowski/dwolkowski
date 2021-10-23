@@ -36,11 +36,9 @@
 [<img align="center" alt="Facebook" height="25px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img align="center" alt="Linkedin" height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="center" alt="Discord" height="25px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
-[<img align="center" alt="Steam" height="25px" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />][steam]
 [<img align="center" alt="Spotify" height="25px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
 
 [facebook]: https://www.facebook.com/profile.php?id=100001629160759
 [linkedin]: https://www.linkedin.com/in/dariusz-wo%C5%82kowski-b7592a1a2
 [discord]: https://discord.com/users/LavXo#5428/
-[steam]: https://steamcommunity.com/id/LavXo/
 [spotify]: https://open.spotify.com/user/lavxo?si=50c155f04b0349e3
