@@ -10,14 +10,15 @@
 
 </div>
 
-
+## Currently learning
 <div>
-  <h5>Currently learning</h5>
     <img height="25px" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
     <img height="25px" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img height="25px" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+    <img height="25px" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+    <img height="25px" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
     <img height="25px" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
-    <img height="25px" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+    <img height="25px" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 </div>
 
 ## Tools and technologies
@@ -29,7 +30,6 @@
     <img height="25px" src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" />
     <img height="25px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img height="25px" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-    <img height="25px" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </div>
 
 ## Social
@@ -39,6 +39,6 @@
 [<img align="center" alt="Spotify" height="25px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
 
 [facebook]: https://www.facebook.com/profile.php?id=100001629160759
-[linkedin]: https://www.linkedin.com/in/dariusz-wo%C5%82kowski-b7592a1a2
+[linkedin]: https://www.linkedin.com/in/dwolkowski
 [discord]: https://discord.com/users/LavXo#5428/
 [spotify]: https://open.spotify.com/user/lavxo?si=50c155f04b0349e3
